@@ -1,6 +1,6 @@
 # My-Introduction
 
-<h1 align="center">Hi 👋, I'm Kunal Singh</h1>
+<h1 align="center">Hi 👋, I'm Manu Saini</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="description of image" width="optional width" height="optional height">
 
@@ -8,19 +8,18 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **kunalsinghh941@gmail.com**
+- 📫 How to reach me **manusaini22092003@gmail.com**
 
-- 📄 Here's my resume [https://drive.google.com/file/d/15wc-PDZxHxB4JufVGNDue7bESbhmAaHS/view?usp=sharing](https://drive.google.com/file/d/15wc-PDZxHxB4JufVGNDue7bESbhmAaHS/view?usp=sharing)
-
+- 📄 Here's my resume https://drive.google.com/file/d/1ZkgbG2vB4tmjGvLpHDCVtXEsQ9Irhghx/view
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kunal-singh-643a59232" target="blank">
+  <a href="https://www.linkedin.com/in/manu-saini-840515215/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-singh-643a59232" height="40" width="50" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.codechef.com/users/nero_007" target="blank">
+  <a href="https://www.codechef.com/users/manu2209" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nero_007" height="40" width="50" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.leetcode.com/nero_007" target="blank">
+  <a href="https://leetcode.com/u/Manu9084/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nero_007" height="40" width="50" style="margin-right: 10px;" />
   </a>
 </p>
